@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://783d452c.hugo-cloudflare.pages.dev/"
 languageCode: en-us
 title: Hugo Deploy to cloudflare
 

@@ -40,3 +40,15 @@ In je project local voer je onderstaande opdrachten uit.
 
 
 
+Nu is alleen de REAME.md file  geupload naar github.
+
+Maak een eerste post en een menu, voeg wat tekst toe
+
+
+git status
+git add .
+git commit -m "De eerste pagina met menu"
+git push # als alles goed gedaan is staat je site nu op github
+
+
+Log nu in bij cloudflare
