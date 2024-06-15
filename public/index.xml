@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Deploy to cloudflare</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Hugo Deploy to cloudflare</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>deploy hugo site</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>Deploy hugo site met cloudflare Een hugo project deployen met cloudflare.&#xA;Voor deze test heb ik een kleine site gemaakt.&#xA;open een nieuw project voeg een theme toe als submodule. Een theme copieren naar de theme dir in je project geeft bij de deploy een error.&#xA;Pagina met stappenplan: https://blog.jobins.jp/deploying-a-static-website-on-cloudflare-pages-using-the-hugo-framework&#xA;Github maak in github een nieuw project aan. Voer een passende naam in, verder alles overslaan zo laten, en druk op create.</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>//localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/my-first-post/</guid>
+      <description>Eerste post Dit is de voorbeeld site.&#xA;De nieuwe repo bij github is aangemaakt.&#xA;Nu volgen de deploy stappen.</description>
+    </item>
+  </channel>
+</rss>
