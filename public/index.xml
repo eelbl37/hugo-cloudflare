@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo Deploy to cloudflare</title>
-    <link>//localhost:1313/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Hugo Deploy to cloudflare</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 15 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>deploy hugo site</title>
-      <link>//localhost:1313/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/about/</guid>
-      <description>Deploy hugo site met cloudflare Een hugo project deployen met cloudflare.&#xA;Voor deze test heb ik een kleine site gemaakt.&#xA;open een nieuw project voeg een theme toe als submodule. Een theme copieren naar de theme dir in je project geeft bij de deploy een error.&#xA;Pagina met stappenplan: https://blog.jobins.jp/deploying-a-static-website-on-cloudflare-pages-using-the-hugo-framework&#xA;Github maak in github een nieuw project aan. Voer een passende naam in, verder alles overslaan zo laten, en druk op create.</description>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;deploy-hugo-site-met-cloudflare&#34;&gt;Deploy hugo site met cloudflare&lt;/h2&gt;&#xA;&lt;p&gt;Een hugo project deployen met cloudflare.&lt;/p&gt;&#xA;&lt;p&gt;Voor deze test heb ik een kleine site gemaakt.&lt;/p&gt;&#xA;&lt;p&gt;open een nieuw project&#xA;voeg een theme toe als submodule. Een theme copieren naar de theme dir in je project geeft bij de deploy een error.&lt;/p&gt;&#xA;&lt;p&gt;Pagina met stappenplan:&#xA;&lt;a href=&#34;https://blog.jobins.jp/deploying-a-static-website-on-cloudflare-pages-using-the-hugo-framework&#34;&gt;https://blog.jobins.jp/deploying-a-static-website-on-cloudflare-pages-using-the-hugo-framework&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;github&#34;&gt;Github&lt;/h2&gt;&#xA;&lt;p&gt;maak in github een nieuw project aan.&#xA;Voer een passende naam in, verder alles overslaan zo laten, en druk op create.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My First Post</title>
-      <link>//localhost:1313/posts/my-first-post/</link>
+      <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/my-first-post/</guid>
-      <description>Eerste post Dit is de voorbeeld site.&#xA;De nieuwe repo bij github is aangemaakt.&#xA;Nu volgen de deploy stappen.</description>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;eerste-post&#34;&gt;Eerste post&lt;/h2&gt;&#xA;&lt;p&gt;Dit is de voorbeeld site.&lt;/p&gt;&#xA;&lt;p&gt;De nieuwe repo bij github is aangemaakt.&lt;/p&gt;&#xA;&lt;p&gt;Nu volgen de deploy stappen.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

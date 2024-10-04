@@ -34,6 +34,7 @@
   class="not-ready lg:text-base"
   style="--bg: #faf8f1"
   lang="en-us"
+  dir="ltr"
 >
   <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8" />
@@ -53,11 +54,16 @@
   
   
   
-  <meta name="description" content="Deploy hugo site met cloudflare Een hugo project deployen met cloudflare.
+  <meta name="description" content="Deploy hugo site met cloudflare
+Een hugo project deployen met cloudflare.
 Voor deze test heb ik een kleine site gemaakt.
-open een nieuw project voeg een theme toe als submodule. Een theme copieren naar de theme dir in je project geeft bij de deploy een error.
-Pagina met stappenplan: https://blog.jobins.jp/deploying-a-static-website-on-cloudflare-pages-using-the-hugo-framework
-Github maak in github een nieuw project aan. Voer een passende naam in, verder alles overslaan zo laten, en druk op create." />
+open een nieuw project
+voeg een theme toe als submodule. Een theme copieren naar de theme dir in je project geeft bij de deploy een error.
+Pagina met stappenplan:
+https://blog.jobins.jp/deploying-a-static-website-on-cloudflare-pages-using-the-hugo-framework
+Github
+maak in github een nieuw project aan.
+Voer een passende naam in, verder alles overslaan zo laten, en druk op create." />
   <meta name="author" content="Hugo Deploy to cloudflare" />
   
 
@@ -67,14 +73,14 @@ Github maak in github een nieuw project aan. Voer een passende naam in, verder a
   
   
   
-  <link rel="preload stylesheet" as="style" href="//localhost:1313/main.min.css" />
+  <link rel="preload stylesheet" as="style" href="http://localhost:1313/main.min.css" />
 
   
   
   
   
   
-  <link rel="preload" as="image" href="//localhost:1313/theme.png" />
+  <link rel="preload" as="image" href="http://localhost:1313/theme.png" />
 
   
   
@@ -90,7 +96,7 @@ Github maak in github een nieuw project aan. Voer een passende naam in, verder a
   
   <script
     defer
-    src="//localhost:1313/highlight.min.js"
+    src="http://localhost:1313/highlight.min.js"
     onload="hljs.initHighlightingOnLoad();"
   ></script>
   
@@ -100,11 +106,17 @@ Github maak in github een nieuw project aan. Voer een passende naam in, verder a
   
 
   
-  <link rel="icon" href="//localhost:1313/favicon.ico" />
-  <link rel="apple-touch-icon" href="//localhost:1313/apple-touch-icon.png" />
+  <link
+    rel="icon"
+    href="http://localhost:1313/favicon.ico"
+  />
+  <link
+    rel="apple-touch-icon"
+    href="http://localhost:1313/apple-touch-icon.png"
+  />
 
   
-  <meta name="generator" content="Hugo 0.126.1">
+  <meta name="generator" content="Hugo 0.134.3">
 
   
   
@@ -112,22 +124,20 @@ Github maak in github een nieuw project aan. Voer een passende naam in, verder a
 </head>
 
   <body class="text-black duration-200 ease-out dark:text-white">
-    <header class="mx-auto flex h-[4.5rem] max-w-3xl px-8 lg:justify-center">
-  <div class="relative z-50 mr-auto flex items-center">
-    <a
-      class="-translate-x-[1px] -translate-y-[1px] text-2xl font-semibold"
-      href="//localhost:1313/"
+    <header class="mx-auto flex h-[4.5rem] max-w-[--w] px-8 lg:justify-center">
+  <div class="relative z-50 ltr:mr-auto rtl:ml-auto flex items-center">
+    <a class="-translate-y-[1px] text-2xl font-medium" href="http://localhost:1313/"
       >Hugo Deploy to cloudflare</a
     >
     <div
-      class="btn-dark text-[0] ml-4 h-6 w-6 shrink-0 cursor-pointer [background:url(./theme.png)_left_center/_auto_theme('spacing.6')_no-repeat] [transition:_background-position_0.4s_steps(5)] dark:[background-position:right]"
+      class="btn-dark text-[0] ltr:ml-4 rtl:mr-4 h-6 w-6 shrink-0 cursor-pointer [background:url(./theme.png)_left_center/_auto_theme('spacing.6')_no-repeat] [transition:_background-position_0.4s_steps(5)] dark:[background-position:right]"
       role="button"
       aria-label="Dark"
     ></div>
   </div>
 
   <div
-    class="btn-menu relative z-50 -mr-8 flex h-[4.5rem] w-[5rem] shrink-0 cursor-pointer flex-col items-center justify-center gap-2.5 lg:hidden"
+    class="btn-menu relative z-50 ltr:-mr-8 rtl:-ml-8 flex h-[4.5rem] w-[5rem] shrink-0 cursor-pointer flex-col items-center justify-center gap-2.5 lg:hidden"
     role="button"
     aria-label="Menu"
   ></div>
@@ -182,10 +192,10 @@ Github maak in github een nieuw project aan. Voer een passende naam in, verder a
   >
     
     
-    <nav class="lg:ml-12 lg:flex lg:flex-row lg:items-center lg:space-x-6">
+    <nav class="lg:ml-12 lg:flex lg:flex-row lg:items-center lg:space-x-10 rtl:space-x-reverse">
       
       <a
-        class="block text-center text-2xl leading-[5rem] lg:text-base lg:font-normal"
+        class="block text-center text-xl leading-[5rem] lg:text-base lg:font-normal"
         href="/about/"
         >about</a
       >
@@ -199,12 +209,12 @@ Github maak in github een nieuw project aan. Voer een passende naam in, verder a
 
 
     <main
-      class="prose prose-neutral relative mx-auto min-h-[calc(100%-9rem)] max-w-3xl px-8 pb-16 pt-12 dark:prose-invert"
+      class="prose prose-neutral relative mx-auto min-h-[calc(100%-9rem)] max-w-[--w] px-8 pb-16 pt-14 dark:prose-invert"
     >
       
 
 <article>
-  <header class="mb-16">
+  <header class="mb-14">
     <h1 class="!my-0 pb-2.5">deploy hugo site</h1>
 
     
@@ -224,12 +234,42 @@ Voer een passende naam in, verder alles overslaan zo laten, en druk op create.</
 <p>In je project local voer je onderstaande opdrachten uit.</p>
 <pre><code>echo &quot;# hugo-cloudflare&quot; &gt;&gt; README.md
 git init  # overslaan moest al bij toevoegen theme via submodule
-git add README.md   # maken
+git add README.md   # de README.md klaar zetten voor commit
 git commit -m &quot;first commit&quot;    # Alleen de readmefile!!
 git branch -M master
 git remote add origin git@github.com:eelbl37/hugo-cloudflare.git  # ssh pad naar de repo
 git push -u origin master
 </code></pre>
+<p>Nu is alleen de REAME.md file  geupload naar github.</p>
+<p>Maak een eerste post en een menu, voeg wat tekst toe</p>
+<p>git status
+git add .
+git commit -m &ldquo;De eerste pagina met menu&rdquo;
+git push # als alles goed gedaan is staat je site nu op github</p>
+<h2 id="deploy-hugo-site-with-cloudflare">deploy hugo site with cloudflare</h2>
+<h1 id="before-you-continue">Before you continue</h1>
+<p>All of the framework guides assume you already have a fundamental understanding of
+Git. If you are new to Git, refer to this summarized Git handbook on how to set
+up Git on your local machine.</p>
+<p>If you clone with SSH, you must generate SSH keys on each computer
+you use to push or pull from GitHub.</p>
+<p>Refer to the GitHub documentation  and Git documentation for more information.</p>
+<p>Go to Deploy with Cloudflare Pages if you already have a Hugo site
+hosted with your Git provider.</p>
+<h1 id="deploy-with-cloudflare-pages">Deploy with Cloudflare Pages</h1>
+<p>To deploy your site to Pages:</p>
+<ul>
+<li>Log in to the Cloudflare dashboard and select your account.</li>
+<li></li>
+<li>In Account Home, select Workers &amp; Pages &gt; Create application &gt; Pages &gt; Connect to Git.</li>
+<li></li>
+<li>Select the new GitHub repository that you created and, in the Set up
+builds and deployments section, provide the following information:</li>
+</ul>
+<p>#Configuration option    Value</p>
+<p>Production branch       main
+Build command           hugo
+Build directory         public</p>
 </section>
 
   
@@ -257,21 +297,23 @@ git push -u origin master
     </main>
 
     <footer
-  class="opaco mx-auto flex h-[4.5rem] max-w-3xl items-center px-8 text-[0.9em] opacity-60"
+  class="mx-auto flex h-[4.5rem] max-w-[--w] items-center px-8 text-xs uppercase tracking-wider opacity-60"
 >
   <div class="mr-auto">
+  
     &copy; 2024
-    <a class="link" href="//localhost:1313/">Hugo Deploy to cloudflare</a>
+    <a class="link" href="http://localhost:1313/">Hugo Deploy to cloudflare</a>
+  
   </div>
   <a class="link mx-6" href="https://gohugo.io/" rel="noopener" target="_blank"
-    >Powered by Hugo️️</a
+    >powered by hugo️️</a
   >️
   <a
     class="link"
     href="https://github.com/nanxiaobei/hugo-paper"
     rel="noopener"
     target="_blank"
-    >✎ Paper</a
+    >hugo-paper</a
   >
 </footer>
 
