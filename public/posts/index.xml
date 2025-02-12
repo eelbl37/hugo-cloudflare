@@ -2,18 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Hugo Deploy to cloudflare</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>//localhost:1313/posts/</link>
     <description>Recent content in Posts on Hugo Deploy to cloudflare</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <title>Github setup</title>
+      <link>//localhost:1313/posts/github-setup-voor-deploy/github/</link>
+      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/github-setup-voor-deploy/github/</guid>
+      <description>&lt;p&gt;Hier volgen de stappen om je locale site te uploden naar github.&lt;/p&gt;&#xA;&lt;p&gt;Na het bewerken aanpassen van je site de volgende stappen uitvoeren&#xA;om de wijzigingen op github te plaatsen.&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;git status&#xA;git add .  &#xA;git commit -m &amp;quot;Omschrijving aanpassingen&amp;quot;&#xA;git push&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;Log in op github en kijk of de wijzigingen aangekomen zijn.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Deploy Hugo site</title>
+      <link>//localhost:1313/posts/my-first-post/</link>
       <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;eerste-post&#34;&gt;Eerste post&lt;/h2&gt;&#xA;&lt;p&gt;Dit is de voorbeeld site.&lt;/p&gt;&#xA;&lt;p&gt;De nieuwe repo bij github is aangemaakt.&lt;/p&gt;&#xA;&lt;p&gt;Nu volgen de deploy stappen.&lt;/p&gt;</description>
+      <guid>//localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;eerste-post&#34;&gt;Eerste post&lt;/h2&gt;&#xA;&lt;p&gt;Deploy een hugo site met github en cloudflare.&lt;/p&gt;&#xA;&lt;p&gt;Maak een oeffen site met een aantal paginas en een kleine blog&lt;/p&gt;&#xA;&lt;p&gt;Noodzakelijk om het te laten werken.&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;- github account&#xA;- cloudflare account&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;Er is een basis kennis van github nodig.&#xA;De stappen om dit oeffen project on line te zetten beschrijf ik hier.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/posts/cloudflare-setup-voor-deploy/cloudflare/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/cloudflare-setup-voor-deploy/cloudflare/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>

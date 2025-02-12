@@ -2,31 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo Deploy to cloudflare</title>
-    <link>http://localhost:1313/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on Hugo Deploy to cloudflare</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 12 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Github setup</title>
-      <link>http://localhost:1313/posts/github-setup-voor-deploy/github/</link>
+      <link>//localhost:1313/posts/github-setup-voor-deploy/github/</link>
       <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/github-setup-voor-deploy/github/</guid>
-      <description>&lt;p&gt;Hier volgen de stappen om je locale site te uploden naar github.&lt;/p&gt;</description>
+      <guid>//localhost:1313/posts/github-setup-voor-deploy/github/</guid>
+      <description>&lt;p&gt;Hier volgen de stappen om je locale site te uploden naar github.&lt;/p&gt;&#xA;&lt;p&gt;Na het bewerken aanpassen van je site de volgende stappen uitvoeren&#xA;om de wijzigingen op github te plaatsen.&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;git status&#xA;git add .  &#xA;git commit -m &amp;quot;Omschrijving aanpassingen&amp;quot;&#xA;git push&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;Log in op github en kijk of de wijzigingen aangekomen zijn.&lt;/p&gt;&#xA;&lt;p&gt;In hugo.yaml config file de url gewist.&lt;/p&gt;</description>
     </item>
     <item>
       <title>deploy hugo site</title>
-      <link>http://localhost:1313/about/</link>
+      <link>//localhost:1313/about/</link>
       <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>//localhost:1313/about/</guid>
       <description>&lt;h2 id=&#34;deploy-hugo-site-met-cloudflare&#34;&gt;Deploy hugo site met cloudflare&lt;/h2&gt;&#xA;&lt;p&gt;Een hugo project deployen met cloudflare.&lt;/p&gt;&#xA;&lt;p&gt;Voor deze test heb ik een kleine site gemaakt.&lt;/p&gt;&#xA;&lt;p&gt;open een nieuw project&#xA;voeg een theme toe als submodule. Een theme copieren naar de theme dir in je project geeft bij de deploy een error.&lt;/p&gt;&#xA;&lt;p&gt;Pagina met stappenplan:&#xA;&lt;a href=&#34;https://blog.jobins.jp/deploying-a-static-website-on-cloudflare-pages-using-the-hugo-framework&#34;&gt;https://blog.jobins.jp/deploying-a-static-website-on-cloudflare-pages-using-the-hugo-framework&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;github&#34;&gt;Github&lt;/h2&gt;&#xA;&lt;p&gt;maak in github een nieuw project aan.&#xA;Voer een passende naam in, verder alles overslaan zo laten, en druk op create.&lt;/p&gt;</description>
     </item>
     <item>
+      <title></title>
+      <link>//localhost:1313/posts/cloudflare-setup-voor-deploy/cloudflare/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/cloudflare-setup-voor-deploy/cloudflare/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Deploy Hugo site</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <link>//localhost:1313/posts/my-first-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/my-first-post/</guid>
       <description>&lt;h2 id=&#34;eerste-post&#34;&gt;Eerste post&lt;/h2&gt;&#xA;&lt;p&gt;Deploy een hugo site met github en cloudflare.&lt;/p&gt;&#xA;&lt;p&gt;Maak een oeffen site met een aantal paginas en een kleine blog&lt;/p&gt;&#xA;&lt;p&gt;Noodzakelijk om het te laten werken.&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;- github account&#xA;- cloudflare account&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;Er is een basis kennis van github nodig.&#xA;De stappen om dit oeffen project on line te zetten beschrijf ik hier.&lt;/p&gt;</description>
     </item>
   </channel>
