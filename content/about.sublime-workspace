@@ -1,0 +1,874 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sche",
+				"schema_to_check"
+			],
+			[
+				"make",
+				"make_msg_id"
+			],
+			[
+				"a",
+				"antwoord"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"foodt",
+				"foodtagtwee"
+			],
+			[
+				"ET",
+				"SubElement"
+			],
+			[
+				"per",
+				"persistence"
+			],
+			[
+				"parse",
+				"parse_args"
+			],
+			[
+				"p",
+				"photopath"
+			],
+			[
+				"f",
+				"failed"
+			],
+			[
+				"nea",
+				"nearestMultiple"
+			],
+			[
+				"t",
+				"thumbs"
+			],
+			[
+				"i",
+				"imgobj"
+			],
+			[
+				"org",
+				"orgcatfoto"
+			],
+			[
+				"orgc",
+				"orgcatfoto3"
+			],
+			[
+				"catcrop",
+				"catcropwidth"
+			],
+			[
+				"orgcat",
+				"orgcatfoto2"
+			],
+			[
+				"cat",
+				"catcropheight"
+			],
+			[
+				"crop",
+				"cropheight"
+			],
+			[
+				"ori",
+				"origineelheight"
+			],
+			[
+				"cr",
+				"cropwidth"
+			],
+			[
+				"naa",
+				"naamvoorletters"
+			],
+			[
+				"naam",
+				"dvoornaamletters"
+			],
+			[
+				"str",
+				"straatnummer"
+			],
+			[
+				"new",
+				"newcsvrecord"
+			],
+			[
+				"st",
+				"straatnr"
+			],
+			[
+				"na",
+				"naamenvoorletters"
+			],
+			[
+				"n",
+				"naamenvoorletters"
+			],
+			[
+				"B",
+				"BIC"
+			],
+			[
+				"int",
+				"int_to_decimal_str"
+			],
+			[
+				"deci",
+				"decimal_str_to_int"
+			],
+			[
+				"led",
+				"ledenvoortest"
+			],
+			[
+				"leden",
+				"ledenvoortest"
+			],
+			[
+				"Po",
+				"postcode"
+			],
+			[
+				"S",
+				"SubElement"
+			],
+			[
+				"le",
+				"ledenoverzicht"
+			],
+			[
+				"l",
+				"ledenoverzicht"
+			],
+			[
+				"pri",
+				"printxmlfromfile"
+			],
+			[
+				"Ele",
+				"ElementTree"
+			],
+			[
+				"Et",
+				"ElementTree"
+			],
+			[
+				"ge",
+				"genre"
+			],
+			[
+				"iter",
+				"iteropmlout"
+			],
+			[
+				"oude",
+				"oude_naam"
+			],
+			[
+				"o",
+				"oude_bedrag"
+			],
+			[
+				"validate",
+				"validate_iban"
+			],
+			[
+				"O",
+				"OriginalXML"
+			],
+			[
+				"matc",
+				"matching_books"
+			],
+			[
+				"s",
+				"stringzin"
+			],
+			[
+				"nummers",
+				"nummerstringalstole"
+			],
+			[
+				"nu",
+				"nummerstring"
+			],
+			[
+				"dic",
+				"dictionary"
+			],
+			[
+				"da",
+				"datetime"
+			],
+			[
+				"get",
+				"getsize"
+			],
+			[
+				"os",
+				"os_fspath"
+			],
+			[
+				"ma",
+				"match_members"
+			],
+			[
+				"mem",
+				"members_extra_list"
+			],
+			[
+				"ex",
+				"extra_data"
+			],
+			[
+				"me",
+				"menu_selectie"
+			],
+			[
+				"c",
+				"csv_reader"
+			],
+			[
+				"T",
+				"True"
+			],
+			[
+				"cha",
+				"characters"
+			],
+			[
+				"ch",
+				"characters"
+			],
+			[
+				"enu",
+				"enumerate"
+			],
+			[
+				"comp",
+				"computerLetter\tparam"
+			],
+			[
+				"sub",
+				"SubElement\tfunction"
+			],
+			[
+				"pur",
+				"purchases\tstatement"
+			],
+			[
+				"letters",
+				"letter_counts\tstatement"
+			],
+			[
+				"dat",
+				"delattr\tfunction"
+			],
+			[
+				"csv",
+				"csvoutputfile\tstatement"
+			],
+			[
+				"list",
+				"listoflists\tstatement"
+			],
+			[
+				"dir",
+				"dirpathterug\tstatement"
+			],
+			[
+				"nie",
+				"niewuewdirnaampad\tstatement"
+			],
+			[
+				"qu",
+				"questionNum\tstatement"
+			],
+			[
+				"q",
+				"questionNum\tstatement"
+			],
+			[
+				"mai",
+				"mailfilePad\tstatement"
+			],
+			[
+				"W",
+				"WIDTH\tstatement"
+			],
+			[
+				"colo",
+				"colorsys\tmodule"
+			],
+			[
+				"BO",
+				"BOTTOM\tstatement"
+			],
+			[
+				"ev",
+				"event"
+			],
+			[
+				"en",
+				"environ"
+			],
+			[
+				"image",
+				"image_path"
+			],
+			[
+				"err",
+				"errMsg\tlet"
+			],
+			[
+				"in",
+				"instanceof\tkeyword"
+			],
+			[
+				"Vid",
+				"VideoManager"
+			],
+			[
+				"Vide",
+				"VideoQuerySet"
+			],
+			[
+				"quer",
+				"query"
+			],
+			[
+				"u",
+				"unique_slug_generator"
+			],
+			[
+				"col-",
+				"col-sm-12"
+			],
+			[
+				"h",
+				"homeImageList\tproperty"
+			],
+			[
+				"se",
+				"searchQuery\tproperty"
+			],
+			[
+				"r",
+				"routeSub\tproperty"
+			],
+			[
+				"Av",
+				"ActivatedRoute\talias"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"by",
+				"bypassSecurityTrustResourceUrl\tmethod"
+			],
+			[
+				"Pip",
+				"PipeTransform\talias"
+			],
+			[
+				"imp",
+				"implements\tkeyword"
+			],
+			[
+				"cons",
+				"console\tvar"
+			],
+			[
+				"rou",
+				"RouterModule\talias"
+			],
+			[
+				"Rou",
+				"RouterModule\talias"
+			],
+			[
+				"fu",
+				"function\tkeyword"
+			],
+			[
+				"bas",
+				"basil3\tlet"
+			],
+			[
+				"con",
+				"constructor\tkeyword"
+			],
+			[
+				"login",
+				"loginUrl"
+			],
+			[
+				"lo",
+				"login"
+			],
+			[
+				"data",
+				"dataId"
+			],
+			[
+				"gen",
+				"generateEditForm"
+			],
+			[
+				"cfe-",
+				"cfe-media-edit"
+			],
+			[
+				"auth",
+				"author"
+			],
+			[
+				"aut",
+				"author"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"form",
+				"formData"
+			],
+			[
+				"object",
+				"objectId"
+			],
+			[
+				"obj",
+				"objectId"
+			],
+			[
+				"co",
+				"contentTxt"
+			],
+			[
+				"content",
+				"contentHolder"
+			],
+			[
+				"html",
+				"htmlStart_"
+			],
+			[
+				"is",
+				"is_authenticated"
+			],
+			[
+				"re",
+				"responseJSON"
+			],
+			[
+				"res",
+				"responseData"
+			],
+			[
+				"fo",
+				"formResponse"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"like",
+				"likeUrl"
+			],
+			[
+				"cu",
+				"customersDjango"
+			],
+			[
+				"Lis",
+				"ListView"
+			],
+			[
+				"file",
+				"filename"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Advanced Install Packages"
+			],
+			[
+				"",
+				"Package Control: Upgrade All Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: remove p",
+				"Package Control: Remove Package"
+			],
+			[
+				"repl",
+				"SublimeREPL: Python"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Markdown Preview: Export HTML in Sublime Text"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markd",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/einte/hugostart/leerhugo/content/posts/derde-post.md",
+		"/home/einte/hugostart/leerhugo/content/about.md",
+		"/home/einte/hugostart/leerhugo/content/posts/MD toepassingen gebruik/gebruikMD.md",
+		"/home/einte/hugostart/leerhugo/content/posts/01-document/index.md",
+		"/home/einte/hugostart/leerhugo/content/posts/04-over-dit-project/index.md",
+		"/home/einte/hugostart/leerhugo/content/posts/tekst over md/md imagetag.md",
+		"/home/einte/hugo-paper/content/markdown.md",
+		"/home/einte/hugostart/leerhugo/content/posts/eerste-post.md",
+		"/home/einte/hugostart/leerhugo/content/menumaken.md",
+		"/home/einte/hugostart/leerhugo/content/posts/02-document/index.md",
+		"/home/einte/hugostart/leerhugo/content/posts/document-over-md",
+		"/home/einte/einte-hugo-documenten/setuptextdocument.md",
+		"/home/einte/einte-hugo-documenten/hugo/menus maken gebruiken in hugo/menus maken.md",
+		"/home/einte/.config/sublime-text/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/home/einte/einte-hugo-documenten/eintemarkdowndocument.sublime-project",
+		"/home/einte/hugostart/leerhugo/config.yaml",
+		"/home/einte/lutz38/geekforgeeks/lessenBerndKlein/os-module/osgebruiken.py",
+		"/home/einte/lutz38/geekforgeeks/lessenBerndKlein/comperhensien/comperehension.py",
+		"/home/einte/lutz38/geekforgeeks/leerxml/xsd basic voorbeeld/example.xml",
+		"/home/einte/lutz38/geekforgeeks/leerxml/xsd basic voorbeeld/test.py",
+		"/home/einte/lutz38/geekforgeeks/leerxml/xsd basic voorbeeld/simplelxml.py",
+		"/home/einte/lutz38/geekforgeeks/leerxml/xsd basic voorbeeld/testxmlschema.py",
+		"/home/einte/lutz38/geekforgeeks/leerxml/xsd basic voorbeeld/maakxsd.py",
+		"/home/einte/lutz38/geekforgeeks/leerxml/xsd basic voorbeeld/articles.xml",
+		"/home/einte/lutz38/geekforgeeks/leerxml/xsd basic voorbeeld/example.xsd",
+		"/home/einte/lutz38/geekforgeeks/leerxml/csv zip format csv-reader/namenweergeven.py",
+		"/home/einte/lutz38/geekforgeeks/leerxml/foodprice.py",
+		"/home/einte/lutz38/geekforgeeks/leerxml/csv repalace .join()/repalace.py",
+		"/home/einte/lutz38/geekforgeeks/leerxml/nlibancheck/ibancheck.py",
+		"/home/einte/lutz38/geekforgeeks/leerxml/csv vancsvnaarxml_alles_text/vancsvtoxml.py",
+		"/home/einte/lutz38/geekforgeeks/leerxml/csv inlezen printen in overzicht/namenweergeven.py",
+		"/home/einte/lutz38/geekforgeeks/leerxml/csv csvladen met csvReader/csvinlezen.py",
+		"/home/einte/lutz38/geekforgeeks/leerxml/csv csvladen met DictReader/dictreader.py",
+		"/home/einte/lutz38/geekforgeeks/leerxml/basic dict gebruik/dictbasic.py",
+		"/home/einte/lutz38/pandas/Voor2025lid D nmmer toevoegen/lid.py",
+		"/home/einte/lutz38/geekforgeeks/leerxml/csv csvinlezen/csvinlezen.py",
+		"/home/einte/lutz38/geekforgeeks/leerxml/maak xml bestant met elementTree/nieuw1BasicMetComment.py",
+		"/home/einte/lutz38/geekforgeeks/leerxml/maak xml bestant met elementTree/nieuw2AttribMetSET.py",
+		"/home/einte/lutz38/geekforgeeks/leerxml/maak xml bestant met elementTree/nieuwalleTagWaardesTEXT.py",
+		"/home/einte/lutz38/geekforgeeks/leerxml/xml maken vanuit csv/xmlencsv.py",
+		"/home/einte/lutz38/geekforgeeks/leerxml/maak xml bestant met elementTree/nieuwallwaardesTEXT.py",
+		"/home/einte/lutz38/geekforgeeks/leerxml/maak xml bestant met elementTree/nieuw2metattrib.py",
+		"/home/einte/lutz38/geekforgeeks/leerxml/prettyprint xml/prettyprint.py",
+		"/home/einte/lutz38/geekforgeeks/leerxml/maak xml bestant met elementTree/output.xml",
+		"/home/einte/lutz38/geekforgeeks/leerxml/maak xml bestant met elementTree/nieuw1.py",
+		"/home/einte/lutz38/pdfpagewissentoevoegen/pdfbewerk.py",
+		"/home/einte/lutz38/pdfpagewissentoevoegen/pdfaanpassen.py",
+		"/home/einte/01-meta/dankdag collecte incasso/2024/sepa incasso data/SEPADD_RABONL2U_20241113105641.XML",
+		"/home/einte/lutz38/geekforgeeks/leerxml/topenadrespretty.py",
+		"/home/einte/lutz38/geekforgeeks/leerxml/xmlvanafstart.py",
+		"/home/einte/lutz38/geekforgeeks/leerxml/prettyprint xml/output.xml",
+		"/home/einte/lutz38/geekforgeeks/leerxml/parse xml bestand inlezen/parse.py",
+		"/home/einte/lutz38/geekforgeeks/leerxml/vancsvnaarxml basic/vancsvtoxml.py",
+		"/home/einte/lutz38/opt/docker-compose.yaml",
+		"/home/einte/lutz38/opt/mosquitto.conf",
+		"/home/einte/lutz38/geekforgeeks/oop basic/dogclass1.py",
+		"/home/einte/lutz38/geekforgeeks/oop basic/dogclass2.py",
+		"/home/einte/lutz38/geekforgeeks/oop basic/dogclass3.py",
+		"/home/einte/lutz38/geekforgeeks/xmlmanagement/XML-Management-with-Python/tp31.py",
+		"/home/einte/lutz38/geekforgeeks/xmlmanagement/XML-Management-with-Python/commande_gen.py",
+		"/home/einte/lutz38/geekforgeeks/xmlmanagement/XML-Management-with-Python/commande_gen.xml",
+		"/home/einte/lutz38/geekforgeeks/xmlmanagement/XML-Management-with-Python/tp32.py",
+		"/home/einte/lutz38/geekforgeeks/leerxml/uitlegDataTonen.py",
+		"/home/einte/lutz38/lutz38nieuweINSTALL.sublime-project",
+		"/home/einte/lutz38/geekforgeeks/exifgroveimageedit/ALL DOCS edit-exif-data-with-python/write-metadata.py",
+		"/home/einte/lutz38/geekforgeeks/exifgroveimageedit/ALL DOCS edit-exif-data-with-python/read-metadata.py",
+		"/home/einte/lutz38/geekforgeeks/exifgroveimageedit/write-metadataoud.py",
+		"/home/einte/lutz38/geekforgeeks/exifgroveimageedit/read-metadataoud.py",
+		"/home/einte/lutz38/geekforgeeks/exifedit/app.py",
+		"/home/einte/lutz38/geekforgeeks/exifInStreamLit/batchexif.py",
+		"/home/einte/lutz38/geekforgeeks/tkinter_image_editer/imageediter.py",
+		"/home/einte/lutz38/geekforgeeks/photoPathDisplayExif/leesdirmetfotos/leesexifuitfoto.py",
+		"/home/einte/lutz38/geekforgeeks/photoPathDisplayExif/leesdirmetfotos/batchexif.py",
+		"/home/einte/lutz38/geekforgeeks/photoPathDisplayExif/leesdirmetfotos/ladenfotodir.py",
+		"/home/einte/lutz38/geekforgeeks/photoPathDisplayExif/leesdirmetfotos/photoeditdattime.py",
+		"/home/einte/lutz38/geekforgeeks/readexifdata/exifdata.py",
+		"/home/einte/lutz38/geekforgeeks/leerxml/nl-bsncheck/bsncheck.py",
+		"/home/einte/lutz38/geekforgeeks/leerxml/prettyoutput.xml",
+		"/home/einte/lutz38/python-sepaxml/maakxml.py",
+		"/home/einte/lutz38/geekforgeeks/leerxml/xmlencsv.py",
+		"/home/einte/lutz38/geekforgeeks/leerxml/output.xml",
+		"/home/einte/lutz38/geekforgeeks/leerxml/metenzondervlees.py",
+		"/home/einte/lutz38/geekforgeeks/leerxml/foodprice.xml",
+		"/home/einte/lutz38/geekforgeeks/wordGuessingGame/wordGuessing.py",
+		"/home/einte/lutz38/tkinter-image-viewer/main.py",
+		"/home/einte/lutz38/tkinter-calculater/calculater.py",
+		"/home/einte/lutz38/tkinter_canvas/canvas1.py",
+		"/home/einte/lutz38/tkinter_canvas/scrolledcanvas.py",
+		"/home/einte/lutz38/tkinter-menus-edit-text/scrolledlist.py",
+		"/home/einte/lutz38/tkinter-menus-edit-text/scrolledtext.py",
+		"/home/einte/lutz38/tkinter-menus-edit-text/simpleedit.py",
+		"/home/einte/lutz38/tkinter-menus-edit-text/simpleedit2.py",
+		"/home/einte/lutz38/tkinter-menus/menu-win.py",
+		"/home/einte/lutz38/tkinter_en_PIL/viewer-thumbs-fixed.py",
+		"/home/einte/lutz38/tkinter_en_PIL/viewer-thumbs-grid.py",
+		"/home/einte/lutz38/tkinter_en_PIL/viewer_thumbs.py",
+		"/home/einte/lutz38/tkinter_en_PIL/viewer-pil.py",
+		"/home/einte/lutz38/tkinter_en_PIL/viewer-tk.py",
+		"/home/einte/lutz38/geekforgeeks/dicts gebruiken in python/sortByKeyOrValue/sortOnKey3.py",
+		"/home/einte/lutz38/geekforgeeks/dicts gebruiken in python/sortByKeyOrValue/sortOrderedValue.py",
+		"/home/einte/lutz38/geekforgeeks/numberGussingGame/numberGuessing.py",
+		"/home/einte/lutz38/geekforgeeks/masterMindGameGuesANumber/mastermind.py",
+		"/home/einte/lutz38/geekforgeeks/keyloggerInPython/keylogger.py",
+		"/home/einte/lutz38/geekforgeeks/leerxml/uitlegDataToevoegen.txt",
+		"/home/einte/lutz38/geekforgeeks/leerxml/uitleg1.py",
+		"/home/einte/lutz38/geekforgeeks/dicts gebruiken in python/sortByKeyOrValue/sortOrderedDict.py",
+		"/home/einte/lutz38/geekforgeeks/dicts gebruiken in python/sortByKeyOrValue/sortOnKeyAndValue.py",
+		"/home/einte/lutz38/geekforgeeks/dicts gebruiken in python/sortByKeyOrValue/dictsort2.py",
+		"/home/einte/lutz38/geekforgeeks/dicts gebruiken in python/sortByKeyOrValue/dictsort1.py",
+		"/home/einte/lutz38/geekforgeeks/21NumberGame/21number.py",
+		"/home/einte/lutz38/geekforgeeks/21NumberGame/test2.py",
+		"/home/einte/lutz38/geekforgeeks/21NumberGame/test1.py",
+		"/home/einte/lutz38/geekforgeeks/hangmanGameInPythonWoordRaden/hangman.py",
+		"/home/einte/lutz38/geekforgeeks/hangmanGameInPythonWoordRaden/uitleg.py",
+		"/home/einte/lutz38/geekforgeeks/program a countdown timer/cowntDownTimer.py",
+		"/home/einte/.config/sublime-text/Packages/Sublime Input/SublimeInput.sublime-settings",
+		"/home/einte/.config/sublime-text/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/home/einte/lutz38/geekforgeeks/hangman game in python/hangman.py",
+		"/home/einte/.config/sublime-text/Packages/User/python3.sublime-build",
+		"/home/einte/.config/sublime-text/Packages/User/SublimeREPL.sublime-settings",
+		"/home/einte/lutz38/geekforgeeks/practiceProblems/listLength.py",
+		"/home/einte/lutz38/geekforgeeks/list/listfind.py",
+		"/home/einte/lutz38/geekforgeeks/practiceProblems/listfind.py",
+		"/home/einte/lutz38/geekforgeeks/practiceProblems/hangmanPythonExample.py",
+		"/home/einte/lutz38/geekforgeeks/leerxml/xmlparsingcsv.py",
+		"/home/einte/lutz38/geekforgeeks/practiceProblems/dictsort2.py",
+		"/home/einte/lutz38/geekforgeeks/leerxml/xmlElement.py",
+		"/home/einte/lutz38/geekforgeeks/practiceProblems/dictsort3.py"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 132.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": false,
+		"use_buffer2": false,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 69.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 508.0
+	},
+	"pinned_build_system": "Anaconda Python Builder",
+	"project": "about.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"email",
+				"templates/team/email_instructions.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 359.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -27,7 +27,7 @@ Voer een passende naam in, verder alles overslaan zo laten, en druk op create.
 
 ## In je project
 
-In je project local voer je onderstaande opdrachten uit.
+In je oeffen project local voer je onderstaande opdrachten uit.
 
 
     echo "# hugo-cloudflare" >> README.md

@@ -1,14 +1,22 @@
 ---
-title: My First Post
+title: Deploy Hugo site 
 date: "2024-06-15"
 ---
 
 
 ## Eerste post
 
-Dit is de voorbeeld site.
+Deploy een hugo site met github en cloudflare.
+
+Maak een oeffen site met een aantal paginas en een kleine blog
+
+Noodzakelijk om het te laten werken.
+
+    - github account
+    - cloudflare account
+
+Er is een basis kennis van github nodig.
+De stappen om dit oeffen project on line te zetten beschrijf ik hier.
 
 
-De nieuwe repo bij github is aangemaakt.
 
-Nu volgen de deploy stappen.
