@@ -22,3 +22,7 @@ om de wijzigingen op github te plaatsen.
 Log in op github en kijk of de wijzigingen aangekomen zijn.
 
 In hugo.yaml config file de url gewist.
+
+
+12feb hier onder de werkende url
+https://611cb8ef.hugo-cloudflare.pages.dev

@@ -61,9 +61,16 @@ open een nieuw project
 voeg een theme toe als submodule. Een theme copieren naar de theme dir in je project geeft bij de deploy een error.
 Pagina met stappenplan:
 https://blog.jobins.jp/deploying-a-static-website-on-cloudflare-pages-using-the-hugo-framework
-Github
-maak in github een nieuw project aan.
-Voer een passende naam in, verder alles overslaan zo laten, en druk op create." />
+In je project local voer je onderstaande opdrachten uit.
+echo &quot;# hugo-cloudflare&quot; &gt;&gt; README.md
+git init  # overslaan moest al bij toevoegen theme via submodule
+git add README.md   # de README.md 
+git commit -m &quot;first commit&quot;    # Alleen de readmefile!!
+git branch -M master
+git remote add origin git@github.com:eelbl37/hugo-cloudflare.git  # ssh pad naar de repo
+git push -u origin master
+
+Nu is alleen de REAME.md file  geupload naar github." />
   <meta name="author" content="Hugo Deploy to cloudflare" />
   
 
@@ -227,14 +234,10 @@ Voer een passende naam in, verder alles overslaan zo laten, en druk op create." 
 voeg een theme toe als submodule. Een theme copieren naar de theme dir in je project geeft bij de deploy een error.</p>
 <p>Pagina met stappenplan:
 <a href="https://blog.jobins.jp/deploying-a-static-website-on-cloudflare-pages-using-the-hugo-framework">https://blog.jobins.jp/deploying-a-static-website-on-cloudflare-pages-using-the-hugo-framework</a></p>
-<h2 id="github">Github</h2>
-<p>maak in github een nieuw project aan.
-Voer een passende naam in, verder alles overslaan zo laten, en druk op create.</p>
-<h2 id="in-je-project">In je project</h2>
-<p>In je oeffen project local voer je onderstaande opdrachten uit.</p>
+<p>In je project local voer je onderstaande opdrachten uit.</p>
 <pre><code>echo &quot;# hugo-cloudflare&quot; &gt;&gt; README.md
 git init  # overslaan moest al bij toevoegen theme via submodule
-git add README.md   # de README.md klaar zetten voor commit
+git add README.md   # de README.md 
 git commit -m &quot;first commit&quot;    # Alleen de readmefile!!
 git branch -M master
 git remote add origin git@github.com:eelbl37/hugo-cloudflare.git  # ssh pad naar de repo

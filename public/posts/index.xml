@@ -13,14 +13,7 @@
       <link>//localhost:1313/posts/github-setup-voor-deploy/github/</link>
       <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/github-setup-voor-deploy/github/</guid>
-      <description>&lt;p&gt;Hier volgen de stappen om je locale site te uploden naar github.&lt;/p&gt;&#xA;&lt;p&gt;Na het bewerken aanpassen van je site de volgende stappen uitvoeren&#xA;om de wijzigingen op github te plaatsen.&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;git status&#xA;git add .  &#xA;git commit -m &amp;quot;Omschrijving aanpassingen&amp;quot;&#xA;git push&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;Log in op github en kijk of de wijzigingen aangekomen zijn.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Deploy Hugo site</title>
-      <link>//localhost:1313/posts/my-first-post/</link>
-      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;eerste-post&#34;&gt;Eerste post&lt;/h2&gt;&#xA;&lt;p&gt;Deploy een hugo site met github en cloudflare.&lt;/p&gt;&#xA;&lt;p&gt;Maak een oeffen site met een aantal paginas en een kleine blog&lt;/p&gt;&#xA;&lt;p&gt;Noodzakelijk om het te laten werken.&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;- github account&#xA;- cloudflare account&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;Er is een basis kennis van github nodig.&#xA;De stappen om dit oeffen project on line te zetten beschrijf ik hier.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Hier volgen de stappen om je locale site te uploden naar github.&lt;/p&gt;&#xA;&lt;p&gt;Na het bewerken aanpassen van je site de volgende stappen uitvoeren&#xA;om de wijzigingen op github te plaatsen.&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;git status&#xA;git add .  &#xA;git commit -m &amp;quot;Omschrijving aanpassingen&amp;quot;&#xA;git push&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;Log in op github en kijk of de wijzigingen aangekomen zijn.&lt;/p&gt;&#xA;&lt;p&gt;In hugo.yaml config file de url gewist.&lt;/p&gt;&#xA;&lt;p&gt;12feb hier onder de werkende url&#xA;&lt;a href=&#34;https://611cb8ef.hugo-cloudflare.pages.dev&#34;&gt;https://611cb8ef.hugo-cloudflare.pages.dev&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>

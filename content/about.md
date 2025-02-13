@@ -19,20 +19,15 @@ Pagina met stappenplan:
 https://blog.jobins.jp/deploying-a-static-website-on-cloudflare-pages-using-the-hugo-framework
 
 
-## Github
-
-maak in github een nieuw project aan.
-Voer een passende naam in, verder alles overslaan zo laten, en druk op create.
 
 
-## In je project
 
-In je oeffen project local voer je onderstaande opdrachten uit.
+In je project local voer je onderstaande opdrachten uit.
 
 
     echo "# hugo-cloudflare" >> README.md
     git init  # overslaan moest al bij toevoegen theme via submodule
-    git add README.md   # de README.md klaar zetten voor commit
+    git add README.md   # de README.md 
     git commit -m "first commit"    # Alleen de readmefile!!
     git branch -M master
     git remote add origin git@github.com:eelbl37/hugo-cloudflare.git  # ssh pad naar de repo
