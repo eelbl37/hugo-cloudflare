@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//localhost:1313/posts/de-frontnatter/frontmatter/</loc>
+    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/posts/github-setup-voor-deploy/github/</loc>
     <lastmod>2025-02-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -13,8 +16,6 @@
   </url><url>
     <loc>//localhost:1313/about/</loc>
     <lastmod>2024-06-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/cloudflare-setup-voor-deploy/cloudflare/</loc>
   </url><url>
     <loc>//localhost:1313/categories/</loc>
   </url><url>

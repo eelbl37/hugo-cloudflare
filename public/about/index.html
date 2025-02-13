@@ -56,21 +56,12 @@
   
   <meta name="description" content="Deploy hugo site met cloudflare
 Een hugo project deployen met cloudflare.
-Voor deze test heb ik een kleine site gemaakt.
-open een nieuw project
-voeg een theme toe als submodule. Een theme copieren naar de theme dir in je project geeft bij de deploy een error.
-Pagina met stappenplan:
-https://blog.jobins.jp/deploying-a-static-website-on-cloudflare-pages-using-the-hugo-framework
-In je project local voer je onderstaande opdrachten uit.
-echo &quot;# hugo-cloudflare&quot; &gt;&gt; README.md
-git init  # overslaan moest al bij toevoegen theme via submodule
-git add README.md   # de README.md 
-git commit -m &quot;first commit&quot;    # Alleen de readmefile!!
-git branch -M master
-git remote add origin git@github.com:eelbl37/hugo-cloudflare.git  # ssh pad naar de repo
-git push -u origin master
-
-Nu is alleen de REAME.md file  geupload naar github." />
+Een hugo site gebruikt geen database. Bij cloudflare kun je een hugo site zonder
+kosten plaatsen in cloudflare pages.
+Om dit voor elkaar te krijgen heb je kennis nodig van git. Dit is een versie
+beheers systeem. Je gebruikt het om van je werk steeds een copy te maken.
+Wil een aanpassing niet slagen dan kun je terug naar door vorige werkende versie.
+Op het web zijn genoeg gebruiksaanwijzingen te vinden." />
   <meta name="author" content="Hugo Deploy to cloudflare" />
   
 
@@ -229,50 +220,17 @@ Nu is alleen de REAME.md file  geupload naar github." />
 
   <section><h2 id="deploy-hugo-site-met-cloudflare">Deploy hugo site met cloudflare</h2>
 <p>Een hugo project deployen met cloudflare.</p>
-<p>Voor deze test heb ik een kleine site gemaakt.</p>
-<p>open een nieuw project
-voeg een theme toe als submodule. Een theme copieren naar de theme dir in je project geeft bij de deploy een error.</p>
-<p>Pagina met stappenplan:
-<a href="https://blog.jobins.jp/deploying-a-static-website-on-cloudflare-pages-using-the-hugo-framework">https://blog.jobins.jp/deploying-a-static-website-on-cloudflare-pages-using-the-hugo-framework</a></p>
-<p>In je project local voer je onderstaande opdrachten uit.</p>
-<pre><code>echo &quot;# hugo-cloudflare&quot; &gt;&gt; README.md
-git init  # overslaan moest al bij toevoegen theme via submodule
-git add README.md   # de README.md 
-git commit -m &quot;first commit&quot;    # Alleen de readmefile!!
-git branch -M master
-git remote add origin git@github.com:eelbl37/hugo-cloudflare.git  # ssh pad naar de repo
-git push -u origin master
-</code></pre>
-<p>Nu is alleen de REAME.md file  geupload naar github.</p>
-<p>Maak een eerste post en een menu, voeg wat tekst toe</p>
-<p>git status
-git add .
-git commit -m &ldquo;De eerste pagina met menu&rdquo;
-git push # als alles goed gedaan is staat je site nu op github</p>
-<h2 id="deploy-hugo-site-with-cloudflare">deploy hugo site with cloudflare</h2>
-<h1 id="before-you-continue">Before you continue</h1>
-<p>All of the framework guides assume you already have a fundamental understanding of
-Git. If you are new to Git, refer to this summarized Git handbook on how to set
-up Git on your local machine.</p>
-<p>If you clone with SSH, you must generate SSH keys on each computer
-you use to push or pull from GitHub.</p>
-<p>Refer to the GitHub documentation  and Git documentation for more information.</p>
-<p>Go to Deploy with Cloudflare Pages if you already have a Hugo site
-hosted with your Git provider.</p>
-<h1 id="deploy-with-cloudflare-pages">Deploy with Cloudflare Pages</h1>
-<p>To deploy your site to Pages:</p>
-<ul>
-<li>Log in to the Cloudflare dashboard and select your account.</li>
-<li></li>
-<li>In Account Home, select Workers &amp; Pages &gt; Create application &gt; Pages &gt; Connect to Git.</li>
-<li></li>
-<li>Select the new GitHub repository that you created and, in the Set up
-builds and deployments section, provide the following information:</li>
-</ul>
-<p>#Configuration option    Value</p>
-<p>Production branch       main
-Build command           hugo
-Build directory         public</p>
+<p>Een hugo site gebruikt geen database. Bij cloudflare kun je een hugo site zonder
+kosten plaatsen in cloudflare pages.</p>
+<p>Om dit voor elkaar te krijgen heb je kennis nodig van git. Dit is een versie
+beheers systeem. Je gebruikt het om van je werk steeds een copy te maken.
+Wil een aanpassing niet slagen dan kun je terug naar door vorige werkende versie.
+Op het web zijn genoeg gebruiksaanwijzingen te vinden.</p>
+<p>Github.com
+Hier heb je een account nodig.
+Je upload je site met git naar github.
+Tussen github.com en cloudflare word een verbinding gemaakt zodat iedere aanpassing van je code
+door cloudflare verwerkt word in je site.</p>
 </section>
 
   

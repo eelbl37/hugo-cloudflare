@@ -9,18 +9,18 @@
     <lastBuildDate>Wed, 12 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>De Frontmatter</title>
+      <link>//localhost:1313/posts/de-frontnatter/frontmatter/</link>
+      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/de-frontnatter/frontmatter/</guid>
+      <description>&lt;p&gt;De frontmatter van dit artiekel.&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;---&#xA;title: De Frontmatter&#xA;date: &amp;quot;2025-02-12&amp;quot;&#xA;---&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;h2 id=&#34;schrijfwijze&#34;&gt;Schrijfwijze.&lt;/h2&gt;&#xA;&lt;p&gt;de title  staat niet tussen aanhalingstekens.&lt;/p&gt;&#xA;&lt;p&gt;de datum staat tussen aanhalings tekens&lt;/p&gt;&#xA;&lt;p&gt;de description staat tussen aanhalings tekens&lt;/p&gt;&#xA;&lt;p&gt;De datum is belangrijk of uitzetten.&#xA;Teksten met de datum van vandaag worden weergegeven.&#xA;Oudere documenten worden ook weergegeven, maar documenten in de toekomst worden niet weergegeven.&lt;/p&gt;&#xA;&lt;h2 id=&#34;menus&#34;&gt;menus&lt;/h2&gt;&#xA;&lt;p&gt;Een menu in de frontmatter werkt alleen tijdens deze pagina.&#xA;Menus die altijd weergegeven moeten worden plaats je in de config.yaml&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Github setup</title>
       <link>//localhost:1313/posts/github-setup-voor-deploy/github/</link>
       <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/github-setup-voor-deploy/github/</guid>
       <description>&lt;p&gt;Hier volgen de stappen om je locale site te uploden naar github.&lt;/p&gt;&#xA;&lt;p&gt;Na het bewerken aanpassen van je site de volgende stappen uitvoeren&#xA;om de wijzigingen op github te plaatsen.&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;git status&#xA;git add .  &#xA;git commit -m &amp;quot;Omschrijving aanpassingen&amp;quot;&#xA;git push&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;Log in op github en kijk of de wijzigingen aangekomen zijn.&lt;/p&gt;&#xA;&lt;p&gt;In hugo.yaml config file de url gewist.&lt;/p&gt;&#xA;&lt;p&gt;12feb hier onder de werkende url&#xA;&lt;a href=&#34;https://611cb8ef.hugo-cloudflare.pages.dev&#34;&gt;https://611cb8ef.hugo-cloudflare.pages.dev&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>//localhost:1313/posts/cloudflare-setup-voor-deploy/cloudflare/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/cloudflare-setup-voor-deploy/cloudflare/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>

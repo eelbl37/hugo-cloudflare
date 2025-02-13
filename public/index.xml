@@ -9,25 +9,32 @@
     <lastBuildDate>Wed, 12 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>De config.ymal</title>
+      <link>//localhost:1313/posts/de-config-file/configfile/</link>
+      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/de-config-file/configfile/</guid>
+      <description>&lt;p&gt;In de config file komen de instellingen voor de site en de&#xA;documenten te staan.&lt;/p&gt;&#xA;&lt;p&gt;Hier onder een klein voorbeeld.&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;baseURL: &amp;quot;&amp;quot;&#xA;languageCode: en-us&#xA;title: Hugo Deploy to cloudflare&#xA;&#xA;theme: paper&#xA;&#xA;menu:&#xA;    main:&#xA;      - identifier: about&#xA;        name: about&#xA;        url: /about/&#xA;        weight: 10&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    <item>
       <title>De Frontmatter</title>
       <link>//localhost:1313/posts/de-frontnatter/frontmatter/</link>
       <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/de-frontnatter/frontmatter/</guid>
-      <description>&lt;p&gt;De frontmatter van dit artiekel.&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;---&#xA;title: De Frontmatter&#xA;date: &amp;quot;2025-02-12&amp;quot;&#xA;---&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;h2 id=&#34;schrijfwijze&#34;&gt;Schrijfwijze.&lt;/h2&gt;&#xA;&lt;p&gt;de title  staat niet tussen aanhalingstekens.&lt;/p&gt;&#xA;&lt;p&gt;de datum staat tussen aanhalings tekens&lt;/p&gt;&#xA;&lt;p&gt;de description staat tussen aanhalings tekens&lt;/p&gt;&#xA;&lt;p&gt;De datum is belangrijk of uitzetten.&#xA;Teksten met de datum van vandaag worden weergegeven.&#xA;Oudere documenten worden ook weergegeven, maar documenten in de toekomst worden niet weergegeven.&lt;/p&gt;&#xA;&lt;h2 id=&#34;menus&#34;&gt;menus&lt;/h2&gt;&#xA;&lt;p&gt;Een menu in de frontmatter werkt alleen tijdens deze pagina.&#xA;Menus die altijd weergegeven moeten worden plaats je in de config.yaml&lt;/p&gt;</description>
+      <description>&lt;p&gt;De frontmatter van dit artiekel.&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;---&#xA;title: De Frontmatter&#xA;date: &amp;quot;2025-02-12&amp;quot;&#xA;---&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;h2 id=&#34;schrijfwijze&#34;&gt;Schrijfwijze.&lt;/h2&gt;&#xA;&lt;p&gt;de title  staat niet tussen aanhalingstekens.&#xA;de datum staat tussen aanhalings tekens&#xA;de description staat tussen aanhalings tekens&#xA;De datum is belangrijk of uitzetten.&#xA;Teksten met de datum van vandaag worden weergegeven.&#xA;Oudere documenten worden ook weergegeven, maar documenten in de toekomst worden niet weergegeven.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Github setup</title>
       <link>//localhost:1313/posts/github-setup-voor-deploy/github/</link>
       <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/github-setup-voor-deploy/github/</guid>
-      <description>&lt;p&gt;Hier volgen de stappen om je locale site te uploden naar github.&lt;/p&gt;&#xA;&lt;p&gt;Na het bewerken aanpassen van je site de volgende stappen uitvoeren&#xA;om de wijzigingen op github te plaatsen.&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;git status&#xA;git add .  &#xA;git commit -m &amp;quot;Omschrijving aanpassingen&amp;quot;&#xA;git push&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;Log in op github en kijk of de wijzigingen aangekomen zijn.&lt;/p&gt;&#xA;&lt;p&gt;In hugo.yaml config file de url gewist.&lt;/p&gt;&#xA;&lt;p&gt;12feb hier onder de werkende url&#xA;&lt;a href=&#34;https://611cb8ef.hugo-cloudflare.pages.dev&#34;&gt;https://611cb8ef.hugo-cloudflare.pages.dev&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Pagina met stappenplan:&#xA;&lt;a href=&#34;https://blog.jobins.jp/deploying-a-static-website-on-cloudflare-pages-using-the-hugo-framework&#34;&gt;https://blog.jobins.jp/deploying-a-static-website-on-cloudflare-pages-using-the-hugo-framework&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Na het bewerken aanpassen van je site de volgende stappen uitvoeren&#xA;om de wijzigingen op github te plaatsen.&lt;/p&gt;&#xA;&lt;p&gt;In je project local voer je onderstaande opdrachten uit met git&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;echo &amp;quot;# hugo-cloudflare&amp;quot; &amp;gt;&amp;gt; README.md&#xA;git init  # overslaan moest al bij toevoegen theme via submodule&#xA;git add README.md   # de README.md &#xA;git commit -m &amp;quot;first commit&amp;quot;    # Alleen de readmefile!!&#xA;git branch -M master&#xA;git remote add origin git@github.com:eelbl37/hugo-cloudflare.git  # ssh pad naar de repo&#xA;git push -u origin master&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;Nu is alleen de REAME.md file  geupload naar github.&lt;/p&gt;</description>
     </item>
     <item>
       <title>deploy hugo site</title>
       <link>//localhost:1313/about/</link>
       <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/about/</guid>
-      <description>&lt;h2 id=&#34;deploy-hugo-site-met-cloudflare&#34;&gt;Deploy hugo site met cloudflare&lt;/h2&gt;&#xA;&lt;p&gt;Een hugo project deployen met cloudflare.&lt;/p&gt;&#xA;&lt;p&gt;Voor deze test heb ik een kleine site gemaakt.&lt;/p&gt;&#xA;&lt;p&gt;open een nieuw project&#xA;voeg een theme toe als submodule. Een theme copieren naar de theme dir in je project geeft bij de deploy een error.&lt;/p&gt;&#xA;&lt;p&gt;Pagina met stappenplan:&#xA;&lt;a href=&#34;https://blog.jobins.jp/deploying-a-static-website-on-cloudflare-pages-using-the-hugo-framework&#34;&gt;https://blog.jobins.jp/deploying-a-static-website-on-cloudflare-pages-using-the-hugo-framework&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;In je project local voer je onderstaande opdrachten uit.&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;echo &amp;quot;# hugo-cloudflare&amp;quot; &amp;gt;&amp;gt; README.md&#xA;git init  # overslaan moest al bij toevoegen theme via submodule&#xA;git add README.md   # de README.md &#xA;git commit -m &amp;quot;first commit&amp;quot;    # Alleen de readmefile!!&#xA;git branch -M master&#xA;git remote add origin git@github.com:eelbl37/hugo-cloudflare.git  # ssh pad naar de repo&#xA;git push -u origin master&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;Nu is alleen de REAME.md file  geupload naar github.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;deploy-hugo-site-met-cloudflare&#34;&gt;Deploy hugo site met cloudflare&lt;/h2&gt;&#xA;&lt;p&gt;Een hugo project deployen met cloudflare.&lt;/p&gt;&#xA;&lt;p&gt;Een hugo site gebruikt geen database. Bij cloudflare kun je een hugo site zonder&#xA;kosten plaatsen in cloudflare pages.&lt;/p&gt;&#xA;&lt;p&gt;Om dit voor elkaar te krijgen heb je kennis nodig van git. Dit is een versie&#xA;beheers systeem. Je gebruikt het om van je werk steeds een copy te maken.&#xA;Wil een aanpassing niet slagen dan kun je terug naar door vorige werkende versie.&#xA;Op het web zijn genoeg gebruiksaanwijzingen te vinden.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
